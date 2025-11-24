@@ -42,9 +42,9 @@ python Run.py
 > নিচের তিনটি ছবির জায়গায় আপনি আপনার নিজের স্ক্রিনশট বা ছবি লিঙ্ক বসিয়ে দিবেন।
 
 ```
-![Screenshot 1](https://github.com/Anonymous-Cyber-Team/Devil-SMS-Tool/blob/main/1.png?raw=true)
-![Screenshot 2](https://github.com/Anonymous-Cyber-Team/Devil-SMS-Tool/blob/main/2.png?raw=true)
-![Screenshot 3](https://github.com/Anonymous-Cyber-Team/Devil-SMS-Tool/blob/main/3.png?raw=true)
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
 ```
 
 ---
